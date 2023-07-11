@@ -31,4 +31,5 @@ main(){
 		{
 			printf("0");
 		}
+	getch();
 }
